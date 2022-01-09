@@ -6,6 +6,7 @@ namespace projeto_teste {
             Console.WriteLine("Versão 1");
             Console.WriteLine("Olá mundo");
             Console.WriteLine("Boa tarde");
+            Console.WriteLine("teste");
         }
     }
 }
