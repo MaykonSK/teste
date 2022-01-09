@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mayco\\source\\repos\\projeto-teste\\projeto-teste\\projeto-teste.csproj",
+      "projectUniqueName": "C:\\Users\\mayco\\source\\repos\\teste\\projeto-teste\\projeto-teste.csproj",
       "projectName": "projeto-teste",
-      "projectPath": "C:\\Users\\mayco\\source\\repos\\projeto-teste\\projeto-teste\\projeto-teste.csproj",
+      "projectPath": "C:\\Users\\mayco\\source\\repos\\teste\\projeto-teste\\projeto-teste.csproj",
       "packagesPath": "C:\\Users\\mayco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mayco\\source\\repos\\projeto-teste\\projeto-teste\\obj\\",
+      "outputPath": "C:\\Users\\mayco\\source\\repos\\teste\\projeto-teste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudio\\Shared\\NuGetPackages"
