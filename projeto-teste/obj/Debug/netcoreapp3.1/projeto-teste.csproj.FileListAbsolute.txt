@@ -1,0 +1,14 @@
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.exe
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.deps.json
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.runtimeconfig.json
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.runtimeconfig.dev.json
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.dll
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.pdb
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.csproj.AssemblyReference.cache
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.AssemblyInfoInputs.cache
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.AssemblyInfo.cs
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.csproj.CoreCompileInputs.cache
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.dll
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.pdb
+C:\Users\mayco\source\repos\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.genruntimeconfig.cache
